@@ -1,2 +1,2 @@
 # cargame
-https://github.com/RB200/cargame
+https://rb200.github.io/cargame/
